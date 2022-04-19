@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## A Note: 
 
-Currently I have some personal problems that are being solved little little by little, I will not be able to be active all the time on github, for the time being.
+Currently I have some personal problems that are being solved little little by little, I will not be able to be active all the time on github, for the time being
